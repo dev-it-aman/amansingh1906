@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amansingh1906
+- 👋 Hi, I’m Aman kumar.
 - 👀 I’m interested in solving modern problems as u know modern problems require modern solutions ahhaaa ryt.
 - 🌱 I’m currently learning Front end web development.
 - 💞️ I’m looking to collaborate on different new websites that use full stack.
